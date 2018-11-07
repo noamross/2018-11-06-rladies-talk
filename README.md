@@ -12,7 +12,7 @@
 [flextable](https://davidgohel.github.io/flextable/),
 [mschart](https://ardata-fr.github.io/mschart/),
 [worded](https://github.com/davidgohel/worded) (in development as of 2018-11-06)
--  [ArchieML](http://archieml.org/), the New York Times' flexible markup for a Google Docs --> Structured Data workflow
+-  [ArchieML](http://archieml.org/), the New York Times' flexible markup for a Google Docs --> Structured Data workflow, and my [negelected R parser for it](https://github.com/ropensci/rchie).
 
 ## Some code snippets demo'd
 
